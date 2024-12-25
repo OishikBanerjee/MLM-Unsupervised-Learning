@@ -15,21 +15,27 @@ Group Number: 10
 **Description of Data**
 
 The dataset contains various columns such as transaction details, country, product, and shipping methods, enabling detailed trade analysis.
+
 **Data Sampling**
 
 Methodologies and techniques used to sample the dataset for efficient processing.
+
 **Project Objectives | Problem Statements**
 
 Objectives and key questions addressed in the analysis.
+
 **Analysis of Data**
 
 Data cleaning, preprocessing, and visualization steps.
+
 **Observations | Findings**
 
 Key patterns and trends identified from the dataset.
+
 **Managerial Insights | Recommendations**
 
 Actionable insights derived from the data for decision-making.
+
 **Tools and Libraries Used**
 Python
 Pandas
@@ -37,6 +43,7 @@ Numpy
 Matplotlib
 Seaborn
 Scikit-learn
+
 **How to Use the Notebook**
 Clone the repository containing this notebook.
 Install the required libraries using pip install -r requirements.txt.
