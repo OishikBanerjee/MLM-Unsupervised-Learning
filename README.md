@@ -1,5 +1,5 @@
 # MLM-Unsupervised-Learning
-Build Unsupervised Learning Models using Python
+Build Unsupervised Learning Models using Python.
 
 ## Overview
 This project aims to explore and analyze data using Python, focusing on unsupervised learning techniques. The notebook includes detailed steps for data exploration, sampling, and analysis, culminating in actionable managerial insights and recommendations.
@@ -8,7 +8,7 @@ This project aims to explore and analyze data using Python, focusing on unsuperv
 
 ### **Project Information**
 
-Title: Data Exploration with Python using Pandas & Numpy Libraries
+Title: Data Exploration with Python using Pandas & Numpy Libraries.
 
 Students: Oishik Banerjee (055028), Amrit Agarwal (055004)
 Group Number: 10
@@ -45,7 +45,7 @@ Matplotlib
 Seaborn
 Scikit-learn
 
-#### **How to Use the Notebook**
+### **How to Use the Notebook**
 Clone the repository containing this notebook.
 Install the required libraries using pip install -r requirements.txt.
 Open the notebook in Jupyter or any compatible editor.
